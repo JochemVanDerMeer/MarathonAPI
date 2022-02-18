@@ -19,3 +19,5 @@ def scrape():
         print(j)
         print()
 scrape()
+
+postURL = "https://marathon-schedule-api.herokuapp.com/marathon"
